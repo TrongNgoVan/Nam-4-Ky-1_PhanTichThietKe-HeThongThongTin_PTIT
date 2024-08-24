@@ -1,0 +1,21 @@
+Bài tập 1 (3 mks)
+Xây dựng một biểu mẫu trang web cho người dùng đăng ký và đăng nhập/đăng xuất bằng mã Java sử dụng JSP + Servlet + JDBC + Mysql + DAO. Tham khảo [1] và tài liệu đính kèm ở cuối.
+
+Bài tập 2 (3 mks)
+
+Xây dựng một ứng dụng web Java quản lý một bộ sưu tập sách với các tính năng cơ bản: liệt kê, chèn, cập nhật, xóa (hoặc các hoạt động CRUD - Tạo, Đọc, Cập nhật và Xóa). Tham khảo [2]
+
+Bài tập 3 (4 mks)
+
+Cho một tập hợp các lớp của một hiệu sách trực tuyến:
+Khách hàng, Địa chỉ, Tài khoản, Sách, OrderList (danh sách các cuốn sách mà khách hàng đặt mua), Đơn hàng.
+1. Xây dựng sơ đồ lớp
+2. Thêm thuộc tính
+3. Sử dụng DAO
+4. Xây dựng cơ sở dữ liệu MySQL để quản lý sách, khách hàng, tài khoản, đơn hàng
+5. Sử dụng
+Bài tập 1,2 để xây dựng trang web cho khách hàng với các chức năng sau·
+Đăng ký·
+Đăng nhập/đăng xuất·
+Tìm kiếm(sách) để chọn sách ·
+Tạo đơn hàng
