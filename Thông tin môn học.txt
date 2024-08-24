@@ -12,6 +12,7 @@ mail: ngocdtb@ptit.edu.vn
 - Làm cá nhân, random theo các đề trong ngân hàng.
 - Cuối kỳ báo cáo, phần code chiếm 25% số điểm.  
 
+
 60 ( Không vấn đáp các câu lý thuyết như CNPM, Thi theo đề tài trong NH)
 
 
